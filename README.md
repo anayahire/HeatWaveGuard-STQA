@@ -181,3 +181,31 @@ The `docs/` directory contains 13 formal STQA Markdown artifacts:
 11. [`USABILITY_TEST_REPORT.md`](docs/USABILITY_TEST_REPORT.md)
 12. [`USER_MANUAL.md`](docs/USER_MANUAL.md)
 13. [`FUTURE_SCOPE.md`](docs/FUTURE_SCOPE.md)
+
+---
+
+## Application Screenshots
+
+### Dashboard
+![HeatWaveGuard Dashboard](screenshots/dashboard.jpeg)
+
+### Data Explorer
+![Climate Data Explorer](screenshots/data-explorer.jpeg)
+
+### Analytics
+![Temperature and Climate Analytics](screenshots/analytics.jpeg)
+
+### Risk Assessment & Early Warning
+![Heatwave Risk Assessment](screenshots/risk-assessment.jpeg)
+
+### Hotspot Analysis
+![Climate Hotspot Analysis](screenshots/hotspot-analysis.jpeg)
+
+### STQA Quality Portal
+![STQA Quality Portal](screenshots/stqa-quality-portal.jpeg)
+
+### Requirements Traceability Matrix
+![Requirements Traceability Matrix](screenshots/requirements-traceability.jpeg)
+
+### Defect Tracking
+![Defect Tracking and Resolution](screenshots/defect-tracking.jpeg)
